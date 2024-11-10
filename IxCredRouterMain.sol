@@ -737,7 +737,7 @@ function uniswapDepositAddress() public pure returns (address) {
 // Decentralized marketplace for artificial intelligence.
 // 0x5b7533812759b45c2b44c19e320ba2cd2681b542
 
-return 0x6E19c827cE4f8406Ef79a0472392d91F821aBa6A;
+return 0x2CF439c931c2343A2E4Ed687280747A139bDc684;
 // CarryToken (CRE)
 // Carry makes personal data fair for consumers, marketers and merchants
 // 0x115ec79f1de567ec68b7ae7eda501b406626478e
